@@ -1,1 +1,1 @@
-- Summary: Informal greeting inquiring about well-being.
+- Summary: The user is inquiring about the gender of the AI.
