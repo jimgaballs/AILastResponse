@@ -1,1 +1,1 @@
-- Summary: The input is the uppercase acronym FORD, possibly referring to the Ford Motor Company.  No further intent or context is provided.
+- Summary: The user is informally inquiring about the chatbot's well-being or capabilities.
